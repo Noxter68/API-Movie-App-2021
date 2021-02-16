@@ -1753,3 +1753,5 @@
 {"level":"info","message":"Connected to mongodb://localhost/AppMovie...","timestamp":"2021-02-16T11:49:17.287Z"}
 {"level":"info","message":"Server is running on port 3001...","timestamp":"2021-02-16T11:52:48.193Z"}
 {"level":"info","message":"Connected to mongodb://localhost/AppMovie...","timestamp":"2021-02-16T11:52:48.205Z"}
+{"level":"info","message":"Server is running on port 3001...","timestamp":"2021-02-16T12:03:43.534Z"}
+{"level":"info","message":"Connected to mongodb://localhost/AppMovie...","timestamp":"2021-02-16T12:03:43.546Z"}
