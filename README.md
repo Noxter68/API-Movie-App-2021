@@ -7,8 +7,8 @@ I also used Unit, Integration & Test Driven Development.
 
 You have to clone the Repository and run
 
-npm install
-npm node app.js or nodemon app.js
+1. npm install
+2. node app.js or nodemon app.js
 
 # Project built with
 
